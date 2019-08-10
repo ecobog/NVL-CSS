@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head >
+        <meta charset="8">
+        <title>Primera práctica CSS</title> 
+        <link rel="stylesheet" type="text/css" href="estilos.css">
+    </head>
+    <body>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+            <li>Item 5</li>
+            <li>Item 6</li>
+        </ul> 
+    </body>
+</html>
