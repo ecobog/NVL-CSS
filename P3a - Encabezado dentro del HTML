@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>La mentira corre más que la verdad</title>
-        <styles>
+        <style>
             h1{
                 color: aqua;
                 background-color: blue;
@@ -13,7 +13,7 @@
                 color: firebrick;
                 background-color: azure
             }
-        </styles>
+        </style>
     </head>
     <body>
         <h1>Noticias falsas</h1>
