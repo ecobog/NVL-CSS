@@ -1,0 +1,9 @@
+h1{
+    color: aqua;
+    background-color: blue;
+    border: 1px solid black
+}
+p{
+    color: firebrick;
+    background-color: azure
+}
