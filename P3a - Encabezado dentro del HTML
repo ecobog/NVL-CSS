@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>La mentira corre más que la verdad</title>
+        <styles>
+            h1{
+                color: aqua;
+                background-color: blue;
+                border: 1px solid black
+            }
+            p{
+                color: firebrick;
+                background-color: azure
+            }
+        </styles>
+    </head>
+    <body>
+        <h1>Noticias falsas</h1>
+        <p>En tiempo reciente, la difusión de noticias falsas ha demostrado ser capaz de influir en política, economía y bienestar social.</p>
+        <p>Según resultados publicados por la revista Science, entre 2006 y 2017, más de 3 millones de personas compartieron 126.000 rumores en Twitter.</p>
+        <p>Entre las historias con mayor repercusión, la mentira alcanzó entre 1000 y 100.000 usuarios, mientras que la verdad raramente sobrepasó el millar de impactos.</p>
+        <p>El grado de novedad y las emociones suscitadas por la falsedad podrían explicar su rápida propagación.</p>
+    </body>
+</html>
