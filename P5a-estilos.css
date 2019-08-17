@@ -1,1 +1,19 @@
+h1 {
+    background-color: aqua;
+    color: brown;
+    border: 1px solid black
+}
 
+img {
+    margin: 10px solid;
+    border: 16px solid orangered;
+    padding: 32px solid; 
+}
+div {
+  height: 135px;
+  width: 235px;
+  background-color: hotpink;
+  padding: 10px;
+  border: solid 3px black;
+  margin: 20px;
+}
