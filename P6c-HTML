@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<meta name="copyright" content="Recetas de rechupete" />
+	<link rel="image_src" href="https://www.recetasderechupete.com/wp-content/uploads/2016/08/Tortilla-de-patatas-150x103.jpg"></link>
+
+<title>Tortilla de patatas y cebolla. Receta paso a paso</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Tortilla de patatas y cebolla</h2>
+    <h3>Receta paso a paso</h3>
+    <p>Quizás la receta de la tortilla de patata sea una de las primeras que todo aspirante a cocinillas debería aprender a hacer y nos hemos propuesto que los que estén empezando en la cocina con nosotros, puedan preparar esta receta de tortilla de patatas con cebolla, con un sabor excepcional.</p>
+    <p>Para ello, vamos a hacer esta tortilla de patatas con dos toques especiales ya que las patatas las vamos a cocinar partiendo de aceite en frío para conseguir un confitado que las haga más cremosas y la cebolla la vamos a caramelizar y añadir después a las patatas. Si preparáis la receta tal como la contamos a continuación, el éxito estará garantizado.</p>
+    <div>
+    <h4>Ingredientes:</h4>
+    /* Todos los elementos con atributo "veg" tendrán el texto en verde */
+    /* Todos los elementos con atributo "pro" tendrán el texto en azul */
+    /* Todos los elementos con atributo "bas" tendrán el texto en rojo */
+    <ul>
+        <li class="veg">700gr. Patatas</li>
+        <li class="veg">1/2 Cebolla</li>
+        <li class="pro">5 Huevos</li>
+        <li class="bas">Sal</li>
+        <li class="bas">Aceite</li>
+    </ul>
+        <img src="ingredientes.jpg" id="primeraimagen" width="200" height="135" alt="Ingredientes">
+    </div>
+    <div>
+    <h4>Cómo hacer tortilla de patata con cebolla:</h4>
+    <ul>
+        <li class="tiempototal"><b><u>Tiempo total --- 45 minutos</u></b></li>
+        <li class="tiempo">Elaboración --- 30 minutos</li>
+        <li class="tiempo">Cocción --- 15 minutos</li>
+    </ul>
+    <h4>Pasos a seguir:</h4>
+    <ol>
+        <li class="impar">Comenzamos con la tarea más larga, la de caramelizar la cebolla que nos llevará unos 30 minutos. Para ello, pelamos la cebolla y la cortamos en juliana. Después la ponemos en una sartén a fuego muy lento y dejamos que se haga muy despacio, removiendo de vez en cuando. No nos interesa que se dore la cebolla sino que se vaya pochando muy despacio. Aquí podéis ver con detalle todos los trucos para caramelizar la cebolla en sus propios azúcares naturales.</li>
+        <li class="par">Mientras la cebolla se hace, pelamos las patatas y las cortamos en rodajas finas, procurando que todas ellas sean de tamaño uniforme. Las dejamos en agua durante 15 minutos y ponemos una sartén con aceite de oliva abundante en el fuego.</li>
+        <li class="impar">Sin dar tiempo a que el aceite se caliente, añadimos las patatas y dejamos que se vayan friendo muy despacio, partiendo de un aceite casi en frío. Así conseguimos que las patatas se confiten en lugar de dorarse. De todas formas, cuando lleven unos diez minutos y hayamos removido de vez en cuando, podemos subir el fuego para conseguir que algunas de las patatas queden más tostaditas, originando así contrastes en el plato final.</li>
+        <li class="par">Sacamos las patatas y las escurrimos bien del aceite y las ponemos en un bol grande. Escurrimos la cebolla cuando esté en su punto, y la ponemos sobre las patatas. Batimos los huevos y los añadimos al bol, removiendo con un tenedor para que se mezclen bien los tres ingredientes.</lo>
+    </ol>
+        <img src="tortilla.jpg" id="segundaimagen" width="200" height="135" alt="Tortilla">
+    </div>
+</body>
+</html>
