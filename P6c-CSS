@@ -1,0 +1,37 @@
+h2{
+    color: pink;
+    background-color: purple; 
+}
+h3{
+    color: fuchsia
+}
+p{
+    color: gray;
+}
+.veg{
+    color: green
+}
+.pro{
+    color: blue
+}
+.bas{
+    color: orangered
+}
+#primeraimagen {
+    border:10px solid orange;
+  }
+#segundaimagen {
+    border:10px solid yellow;
+  }
+.impar {
+    color: blue
+}
+.par {
+    color: purple
+}
+.tiempototal {
+    color: rgb(39, 44, 44)
+}
+.tiempo {
+    color: red
+}
